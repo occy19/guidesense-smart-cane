@@ -1,0 +1,17 @@
+# Arduino / build
+build/
+*.bin
+*.elf
+*.hex
+# KiCad
+*-backups/
+*.kicad_prl
+fp-info-cache
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+# Test binaries
+software/tests/test_logic
+# Large raw media (upload compressed versions to docs/media)
+*.mov

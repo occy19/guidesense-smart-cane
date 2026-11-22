@@ -1,0 +1,28 @@
+No,Component,Quantity,Price (RM),Source,Link,Funding / channel,Purpose
+1,JSN-SR04T v3 waterproof ultrasonic module,1,35.00,Cytron,https://my.cytron.io/p-waterproof-ultrasonic-module,Syqnal – Cytron invoice,Ground & drop detection; sealed probe near cane tip
+2,GY-521 MPU6050 6-DOF IMU,1,10.50,Cytron,https://my.cytron.io/p-gy-521-mpu6050-6dof-accelerometer-plus-gyro,Syqnal – Cytron invoice,"Tilt/swing compensation, sweep direction"
+3,Mini disc vibrating motor 1027 (3 V),4,18.00,Cytron,https://my.cytron.io/p-mini-disc-vibrating-motor-1027,Syqnal – Cytron invoice,Haptic belt L/C/R + 1 spare
+4,3.7 V 2200 mAh 18650 Li-ion cell,2,21.60,Cytron,https://my.cytron.io/p-3.7v-2200mah-18650-li-ion-battery,Syqnal – Cytron invoice,"Main battery, 2 cells in parallel (1S2P)"
+5,18650 battery holder,2,2.40,Cytron,https://my.cytron.io/p-18650-battery-holder,Syqnal – Cytron invoice,Holds cells in the handle
+6,TP4056 1 A USB-C charger with protection,1,5.90,Cytron,https://my.cytron.io/p-lithium-battery-tp4056-1a-usb-c-charger-with-protection,Syqnal – Cytron invoice,Charging + over-discharge/over-current protection
+7,Stripboard 6 × 14 cm,2,3.20,Cytron,https://my.cytron.io/p-stripboard-small-6x14cm,Syqnal – Cytron invoice,Power/driver board + belt board
+8,TF-Luna ToF LiDAR (Benewake),1,112.11,Lazada,https://www.lazada.com.my/products/pdp-i15020288277.html,Syqnal – Reimbursement,"Forward & head/chest-height obstacles, 0.2–8 m"
+9,TPS61088 5 V boost module,1,14.00,Lazada,https://www.lazada.com.my/catalog/?q=tps61088,Syqnal – Reimbursement,3.0–4.2 V cell → stable 5 V for UNO Q (needs 5 V/3 A peaks)
+10,2N2222 NPN transistor (TO-92),4,7.60,Lazada,https://www.lazada.com.my/products/pdp-i1764294819.html,Syqnal – Reimbursement,Motor drivers from 3.3 V GPIO
+11,1N4148 diode (5 pcs),1,1.00,Lazada,https://www.lazada.com.my/products/pdp-i717386027.html,Syqnal – Reimbursement,Flyback protection for motors
+12,"Aluminium folding white cane, 125 cm",1,30.00,Lazada,https://www.lazada.com.my/products/pdp-i14984448416.html,Syqnal – Reimbursement,Base cane for the prototype
+13,Waterproof push button 12 mm,1,2.50,Lazada,https://www.lazada.com.my/products/pdp-i2971613105.html,Syqnal – Reimbursement,One-button calibration
+14,"PG7 nylon cable gland, IP68",4,1.96,Lazada,https://www.lazada.com.my/products/pdp-i3491442150.html,Syqnal – Reimbursement,Sealed cable exits
+15,HARDEX 5-min epoxy (56.8 g),1,8.49,Lazada,https://www.lazada.com.my/products/pdp-i2605762990.html,Syqnal – Reimbursement,"Sealing porous PLA, potting joints"
+16,Soft silicone wire (per metre),3,7.17,Lazada,https://www.lazada.com.my/products/pdp-i688382903.html,Syqnal – Reimbursement,Flexible cane-to-belt harness (v1)
+17,Heat-shrink tube kit (164 pcs),1,4.00,Lazada,https://www.lazada.com.my/products/pdp-i4071799188.html,Syqnal – Reimbursement,"Insulation, strain relief"
+18,JST XH 2.54 connector set (10 pcs),2,3.58,Lazada,https://www.lazada.com.my/products/pdp-i4312921047.html,Syqnal – Reimbursement,Detachable belt/sensor connections
+19,Elastic velcro waist belt,1,4.55,Lazada,https://www.lazada.com.my/products/pdp-i4819153895.html,Syqnal – Reimbursement,Belt base for 3 motor pods
+20,Shipping (estimate),1,6.00,Lazada,-,Syqnal – Reimbursement,Channel B deliveries
+21,Arduino UNO Q,1,Loan,Robotics Society,-,Society Loan,Main controller (MCU sensing + Linux logging)
+22,ESP32 module (or ESP32-C3 SuperMini),2,Loan,Robotics Society,-,Society Loan,Final version: wireless belt link (ESP-NOW)
+23,MG90S metal-gear micro servo,1,Loan,Robotics Society,-,Society Loan,Version 2: servo-stabilised LiDAR comparison
+24,Breadboard + jumper wires,1,Loan,Robotics Society,-,Society Loan,Bench testing
+25,PLA filament,400 g,0.00,EIRP allowance,-,Provided by EIRP,"Enclosure, sensor mount, belt pods"
+26,3.7 V 1000 mAh LiPo + JST,1,14.90,Lazada,https://www.lazada.com.my/products/pdp-i14923078921.html,Team-funded,Final version: belt power
+27,TP4056 USB-C charger (belt),1,2.50,Lazada,https://www.lazada.com.my/products/pdp-i3807218430.html,Team-funded,Final version: belt charging
